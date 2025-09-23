@@ -33,4 +33,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/raffi125/profile/output/snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/raffi125/profile/output/snake.svg" alt="Snake animation" />
